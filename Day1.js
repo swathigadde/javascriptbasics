@@ -1,0 +1,10 @@
+console.log("Hello, World!");
+console.log("This is Day 1 of the coding challenge.");
+let sum=14;
+let nam='swathi';
+let boolen=true;
+const age =22;
+console.log(sum);
+console.log(nam);
+console.log(boolen);
+console.log(age);

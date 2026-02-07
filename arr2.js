@@ -1,0 +1,30 @@
+// let arr=[1,2,3];
+// arr.push(4);
+// console.log(arr);
+// console.log(Math.max(...arr)); 
+// console.log("Hello\nWorld");
+// arr.push(5);
+// arr.push(6);
+// arr.push(7);
+// arr.push(8);
+// console.log(arr);
+// arr.pop();
+// console.log(arr);
+// console.log(Math.max(...arr)); 
+// arr.unshift(99);
+// console.log(arr);
+// arr.shift();
+// console.log(arr);
+let arr1= ['a','b','c','d'];
+console.log(arr1);
+// console.log(arr1.concat(arr));
+//let data = arr1.concat(arr);
+//console.log(data);
+console.log("second array =",arr1);
+//console.log(arr);
+// console.log(arr1.slice(1,3));
+console.log(arr1);
+// arr1.splice(1,3,'x'); // the actios which change the values in original array much be declred outside console like pop,shift,splice
+console.log(arr1);
+console.log(arr1.indexOf('d'));
+ 
