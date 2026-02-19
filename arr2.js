@@ -21,7 +21,7 @@ console.log(arr1);
 //let data = arr1.concat(arr);
 //console.log(data);
 console.log("second array =",arr1);
-//console.log(arr);
+console.log(arr1);
 // console.log(arr1.slice(1,3));
 console.log(arr1);
 arr1.splice(1,3,'x'); 
