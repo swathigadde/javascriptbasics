@@ -4,4 +4,5 @@ if(digit){
 }
 else{
     console.log("The value is false");
+    console.log("GIt Hub Actions")
 }
